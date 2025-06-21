@@ -1,5 +1,5 @@
 -- Jump infinitely, especially useful in obbies.
--- https://github.com/MainDabRblx/ProjectDab/blob/master/roblox.png?raw=true
+-- https://github.com/Avaluate/MainDabWeb/blob/master/roblox.png?raw=true
 local Player = game:GetService'Players'.LocalPlayer;
 local UIS = game:GetService'UserInputService';
 

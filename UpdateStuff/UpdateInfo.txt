@@ -81,7 +81,7 @@ Fixes/removals
 == MainDab Bootstrapper Update ==
 MainDab has recieved a new bootstrapper UI. It looks completely different from the previous bootstrapper, with the new bootstrapper now including a lot more animations.
 
-You can download the bootstrapper and see for yourself here: https://github.com/MainDabRblx/ProjectDab/blob/master/MainDabBootstrapper.exe?raw=true (or ⁠『📥』get-maindab)
+You can download the bootstrapper and see for yourself here: https://github.com/Avaluate/MainDabWeb/blob/master/MainDabBootstrapper.exe?raw=true (or ⁠『📥』get-maindab)
 
 <------------------------------------------------------------------------------------------------------------------------------------->
 

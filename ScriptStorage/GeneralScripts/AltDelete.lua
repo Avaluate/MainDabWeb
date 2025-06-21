@@ -1,5 +1,5 @@
 -- Alt + Click to delete object
--- https://github.com/MainDabRblx/ProjectDab/blob/master/roblox.png?raw=true
+-- https://github.com/Avaluate/MainDabWeb/blob/master/roblox.png?raw=true
 local Plr = game:GetService("Players").LocalPlayer
 local Mouse = Plr:GetMouse()
  
